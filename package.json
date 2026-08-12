@@ -1,0 +1,16 @@
+{
+  "name": "@securist/hf-model-scout",
+  "version": "0.1.0",
+  "description": "Hugging Face public model Scout for Securist",
+  "type": "module",
+  "license": "MIT",
+  "repository": "https://github.com/Securist-InfoSec/hf-model-scout",
+  "homepage": "https://secur.ist/models",
+  "scripts": {
+    "test": "node -e \"console.log('ok', require('./package.json').name)\""
+  },
+  "keywords": [
+    "securist",
+    "infosec"
+  ]
+}
